@@ -1,0 +1,32 @@
+body {
+    background-color: aqua;
+}
+
+.form {
+    color: black;
+}
+
+.error {
+    font-size: small;
+    color: rgb(202, 101, 101);
+}
+
+.input-group {
+    padding: 15px 0px 0px 20px;
+}
+
+.container h1 {
+    text-align: center;
+    color: black;
+    padding-top: 40px;
+}
+
+.row {
+    padding-top: 10px;
+}
+
+.form-submit-button {
+    color: black;
+    background-color: white;
+    border-radius: 5px;
+}
